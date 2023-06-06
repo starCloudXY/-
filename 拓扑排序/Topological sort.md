@@ -11,6 +11,4 @@
 
 ![](../Pictures/DFSS.png)
 
-
-
 ![](../Pictures/DFSB.png)
