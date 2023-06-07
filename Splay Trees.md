@@ -12,11 +12,19 @@ avl:
 
 本质上是把所要查找的点提到顶端
 
+<<<<<<< HEAD
 ![](./Pictures/Splay_1.png)
 
 ![](./Pictures/Splay_2.png)
 
 ![](./Pictures/Splay_3.png)
+=======
+![](.\Pictures\2023-06-02-17-25-11-image.png)  
+
+![](.\Pictures\2023-06-02-17-15-14-image.png)
+
+![](.\Pictures\2023-06-02-17-23-35-image.png)
+>>>>>>> 0a454370a455ab6316d7fa8723d3874e3d6c7db7
 
 算法：将节点自底向上旋转，直到节点变成树根
 
